@@ -2,7 +2,8 @@ Portfolio Website
 Welcome to my portfolio website! This one-page, responsive site showcases my projects, skills, and ways to connect with me. It's designed to provide a professional and clean presentation of my work as a frontend developer.
 
 Demo
-You can view the live version of the portfolio here.
+You can view the live version of the portfolio here:
+https://akua-adomako.github.io/GO2COD_WD_05/
 
 Features
 Responsive Layout: Adapts seamlessly to various screen sizes, providing a smooth experience on mobile, tablet, and desktop.
